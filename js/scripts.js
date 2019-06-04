@@ -22,3 +22,6 @@ $(document).ready(function() {
     $("body").addClass("red-background");
   });
 });
+$("page").click(function(){
+  $(“body”).fadeOut("grey-background");
+});

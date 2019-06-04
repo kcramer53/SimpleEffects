@@ -11,10 +11,15 @@
 .clickable:hover {
   text-decoration: underline;
 }
-.button1 {
-  background-color: purple;
+
+.button4 {
+  background-color: #0088cc;
+}
+       {
+  background-color: #66b3ff;
 }
 
-#button1 {
-  border: 2px:
+.button4 {
+  document.body.style.backgroundColor = "red";
+
 }
