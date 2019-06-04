@@ -1,5 +1,5 @@
 
-#initially- {
+#initially-hidden{
   display: none;
 }
 
@@ -10,4 +10,11 @@
 
 .clickable:hover {
   text-decoration: underline;
+}
+.button1 {
+  background-color: purple;
+}
+
+#button1 {
+  border: 2px:
 }
